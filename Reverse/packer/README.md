@@ -39,7 +39,7 @@ This created an unpacked executable named `outofupx`.
 ## 🔬 Step 3 — Analyzing the Unpacked File in Ghidra
 
 We opened `outofupx` in **Ghidra**.
-Inside the decompiled `main` function, we found that the password used by the program is stored in **hex-encoded form** rather than plaintext.
+Inside the code, we found that the password used by the program is stored in **hex-encoded form** rather than plaintext.
 
 ---
 

@@ -27,10 +27,10 @@ Inside `main()` we find:
 memcmp(input, output, len)
 ```
 
-##Recovered Password
+## Recovered Password
 ```mmhhkjbakavyaqprqnpbuygdymyyddkratrjsbbceizsgtbcxd```
 
-###Run
+### Run
 ```nc titan.picoctf.net 60592```
 
 Enter the ```mmhhkjbakavyaqprqnpbuygdymyyddkratrjsbbceizsgtbcxd```
